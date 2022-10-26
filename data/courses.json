@@ -1,6 +1,6 @@
 [
    {
-      "id": "01",
+      "id": 1,
       "name": "html and html 5",
       "image": "https://i.ibb.co/74gtv9J/html.jpg",
       "description": "HTMl is a markup language that was founded  in 2004 by web hypertext Application technology. By using html you can create a mark up of web. For learning web design you must learn about html language.",
@@ -9,7 +9,7 @@
       "courseFeatures": "[\"introduce with html and html 5\", \"introduce with some html tags\", \"know about html semantic tag\", \"apply your knowledge on your first html project with us.\"]"
    },
    {
-      "id": "02",
+      "id": 2,
       "name": "Css and css 3",
       "image": "https://i.ibb.co/yYbPYNS/css.jpg",
       "description": "Css means Cascading Style Sheets. We use css for styling web page. CSS is used to define styles for your web pages, including the design, layout and variations in display for different devices and screen sizes.",
@@ -18,7 +18,7 @@
       "courseFeatures": "[\"introduce with css \", \"Introduce with css 3\",, \"Link to  css with html file\", \"inline css\", \"Internal css\", \"External css\", \"Create your first project with css\", \"convert psd to html\", \"Convert figma to html\"]"
    },
    {
-      "id": "03",
+      "id": 3,
       "name": "Bootstrap 5 && TailwindCss",
       "image": "https://i.ibb.co/fdqWtsY/css-Framework.jpg",
       "description": "Css frame work help us to implement css easily by providing many classes. In this course you learn about bootstrap and tailwindcss. Css frameworks provides us many utilities and build in component like cards ,menu, button , modal , tooltip. For responsive website you must use css frame . Css frame work makes your life more easier.",
@@ -27,7 +27,7 @@
       "courseFeatures": "[\"Introduce with bootstrap \", \"Introduce with tailwind\", \"Create an website with bootstrap\", \"Create an website with tailwind\", \"discuss all components of bootstrap\", \"How to overwrite framework with css\",  \"Create an responsive website\"]"
    },
    {
-      "id": "04",
+      "id": 4,
       "name": "Full web design course",
       "image": "https://i.ibb.co/McFhVmD/webdesign.png",
       "description": "In this course you get all technologies for web design like html, css, css framework with necessary photoshop tools. ",
@@ -36,7 +36,7 @@
       "courseFeatures": "[\"introduce with html and html 5\", \"introduce with some html tags\", \"know about html semantic tag\", \"apply your knowledge on your first html project with us.\",\"introduce with css \", \"Introduce with css 3\", \"Link to  css with html file\", \"inline css\", \"Internal css\", \"External css\", \"Create your first project with css\", \"convert psd to html\", \"Convert figma to html\",\"Introduce with bootstrap \", \"Introduce with tailwind\",, \"Create an website with bootstrap\", \"Create an website with tailwind\", \"discuss all components of bootstrap\", \"How to overwrite framework with css\", \"Create an responsive website\"]"
    },
    {
-      "id": "05",
+      "id": 5,
       "name": "Python and Django",
       "image": "https://i.ibb.co/bKhPg4p/python-Danjo.jpg",
       "description": "If you work with Python, the chances are good you need internet-connected data that stored securely and is reliable. This is where Django comes in. Django is a web-framework that can handle all of your data and handle it better than any web framework out there. ",
@@ -45,7 +45,7 @@
       "courseFeatures": "[\"Getting Started With Python\", \"History of Python\", \"  Installation\", \"Basic Python Concepts.\",\"Getting Started With Django \"]"
    },
    {
-      "id": "06",
+      "id": 6,
       "name": "PHP AND MYSQL COURSE",
       "image": "https://i.ibb.co/K67sNg7/php-Programming.jpg",
       "description": "Hypertext Preprocessor (PHP) and MySQL (My Structured Query Language) – will enable you to create complex Web Database Applications professionally. ",
