@@ -6,7 +6,12 @@
       "description": "HTMl is a markup language that was founded  in 2004 by web hypertext Application technology. By using html you can create a mark up of web. For learning web design you must learn about html language.",
       "price": 500,
       "duration": "15 days",
-      "courseFeatures": "[\"introduce with html and html 5\", \"introduce with some html tags\", \"know about html semantic tag\", \"apply your knowledge on your first html project with us.\"]"
+      "courseFeatures": [
+         "introduce with html and html 5",
+         "introduce with some html tags",
+         "know about html semantic tag",
+         "apply your knowledge on your first html project with us."
+      ]
    },
    {
       "id": 2,
@@ -15,7 +20,17 @@
       "description": "Css means Cascading Style Sheets. We use css for styling web page. CSS is used to define styles for your web pages, including the design, layout and variations in display for different devices and screen sizes.",
       "price": 600,
       "duration": "15 days",
-      "courseFeatures": "[\"introduce with css \", \"Introduce with css 3\",, \"Link to  css with html file\", \"inline css\", \"Internal css\", \"External css\", \"Create your first project with css\", \"convert psd to html\", \"Convert figma to html\"]"
+      "courseFeatures": [
+         "introduce with css",
+         "Introduce with css 3",
+         "Link to  css with html file",
+         "inline css",
+         "Internal css",
+         "External css",
+         "Create your first project with css",
+         "convert psd to html",
+         "Convert figma to html"
+      ]
    },
    {
       "id": 3,
@@ -24,7 +39,15 @@
       "description": "Css frame work help us to implement css easily by providing many classes. In this course you learn about bootstrap and tailwindcss. Css frameworks provides us many utilities and build in component like cards ,menu, button , modal , tooltip. For responsive website you must use css frame . Css frame work makes your life more easier.",
       "price": 1000,
       "duration": "15 days",
-      "courseFeatures": "[\"Introduce with bootstrap \", \"Introduce with tailwind\", \"Create an website with bootstrap\", \"Create an website with tailwind\", \"discuss all components of bootstrap\", \"How to overwrite framework with css\",  \"Create an responsive website\"]"
+      "courseFeatures": [
+         "Introduce with bootstrap ",
+         "Introduce with tailwind",
+         "Create an website with bootstrap",
+         "Create an website with tailwind",
+         "discuss all components of bootstrap",
+         "How to overwrite framework with css",
+         "Create an responsive website"
+      ]
    },
    {
       "id": 4,
@@ -33,7 +56,28 @@
       "description": "In this course you get all technologies for web design like html, css, css framework with necessary photoshop tools. ",
       "price": 1500,
       "duration": "2 month",
-      "courseFeatures": "[\"introduce with html and html 5\", \"introduce with some html tags\", \"know about html semantic tag\", \"apply your knowledge on your first html project with us.\",\"introduce with css \", \"Introduce with css 3\", \"Link to  css with html file\", \"inline css\", \"Internal css\", \"External css\", \"Create your first project with css\", \"convert psd to html\", \"Convert figma to html\",\"Introduce with bootstrap \", \"Introduce with tailwind\",, \"Create an website with bootstrap\", \"Create an website with tailwind\", \"discuss all components of bootstrap\", \"How to overwrite framework with css\", \"Create an responsive website\"]"
+      "courseFeatures": [
+         "introduce with html and html 5",
+         "introduce with some html tags",
+         "know about html semantic tag",
+         "apply your knowledge on your first html project with us.",
+         "introduce with css ",
+         "Introduce with css 3",
+         "Link to  css with html file",
+         "inline css",
+         "Internal css",
+         "External css",
+         "Create your first project with css",
+         "convert psd to html",
+         "Convert figma to html",
+         "Introduce with bootstrap ",
+         "Introduce with tailwind",
+         "Create an website with bootstrap",
+         "Create an website with tailwind",
+         "discuss all components of bootstrap",
+         "How to overwrite framework with css",
+         "Create an responsive website"
+      ]
    },
    {
       "id": 5,
@@ -42,7 +86,13 @@
       "description": "If you work with Python, the chances are good you need internet-connected data that stored securely and is reliable. This is where Django comes in. Django is a web-framework that can handle all of your data and handle it better than any web framework out there. ",
       "price": 5000,
       "duration": "6 month",
-      "courseFeatures": "[\"Getting Started With Python\", \"History of Python\", \"  Installation\", \"Basic Python Concepts.\",\"Getting Started With Django \"]"
+      "courseFeatures": [
+         "Getting Started With Python",
+         "History of Python",
+         "Installation",
+         "Basic Python Concepts.",
+         "Getting Started With Django "
+      ]
    },
    {
       "id": 6,
@@ -51,6 +101,13 @@
       "description": "Hypertext Preprocessor (PHP) and MySQL (My Structured Query Language) – will enable you to create complex Web Database Applications professionally. ",
       "price": 4000,
       "duration": "6 month",
-      "courseFeatures": "[\"Database Applications and the Web\", \"Learn basic php\", \"Sql and mySql\", \"Validation with PHP and JavaScript\",\"Authentication and Security\", \"Advanced features of object oriented programming.\"]"
+      "courseFeatures": [
+         "Database Applications and the Web",
+         "Learn basic php",
+         "Sql and mySql",
+         "Validation with PHP and JavaScript",
+         "Authentication and Security",
+         "Advanced features of object oriented programming."
+      ]
    }
 ]
